@@ -1,4 +1,7 @@
 # Dead-Name-Remover
+
+This is litterally just the same thing as normal deadname remover just with a transfem flag for those who woud prefer it. I'll eventually make these into one thing with toggles for different flags.
+
 An easy to use browser plugin to automatically replace dead names with preferred names
 
 Visit [Chrome Web Store](https://chrome.google.com/webstore/detail/deadname-remover/cceilgmnkeijahkehfcgfalepihfbcag/) and [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/deadname-remover/) for more info
