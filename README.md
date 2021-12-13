@@ -1,6 +1,6 @@
 # Dead-Name-Remover
 
-This is litterally just the same thing as normal deadname remover just with a transfem flag for those who woud prefer it. I'll eventually make these into one thing with toggles for different flags.
+This is litterally just the same thing as normal deadname remover just with a transfem flag for those who would prefer it. I'll eventually make these into one thing with toggles for different flags.
 
 An easy to use browser plugin to automatically replace dead names with preferred names
 
